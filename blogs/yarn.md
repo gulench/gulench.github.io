@@ -45,5 +45,12 @@ yarn global add @angular/cli
 ng set --global packageManager=yarn
 
 ng new my-app
+
+cd my-app; yarn start
 ```
+
+## `yarn.lock` File
+
+After you run `yarn` in a project directory, it creates a file called `yarn.lock`; this file contains a *resolved* list of the **project's dependencies**. If you update the project's dependencies with yarn, this file gets updated accordingly. You may check in this file into version control.
+
 > Written with [StackEdit](https://stackedit.io/).
