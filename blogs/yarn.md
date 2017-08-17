@@ -49,6 +49,17 @@ ng new my-app
 cd my-app; yarn start
 ```
 
+## Using yarn with Glimmer JS
+
+NOTE: You need to pass the Git repository URL instead of the `@glimmerjs/blueprint` package name: `https://github.com/glimmerjs/glimmer-blueprint.git`.
+```
+%LOCALAPPDATA%\Yarn\config\global\node_modules\.bin\ember.cmd new first-app -b https://github.com/glimmerjs/glimmer-blueprint.git --yarn true
+
+cd first-app
+
+ember serve
+```
+
 ## `yarn.lock` File
 
 After you run `yarn` in a project directory, it creates a file called `yarn.lock`; this file contains a *resolved* list of the **project's dependencies**. If you update the project's dependencies with yarn, this file gets updated accordingly. You may check in this file into version control.
