@@ -10,7 +10,10 @@ One way to clear the cache is to do the following:
 2. Go to the **Network** tab and press `CTRL+R` to refresh the page
 3. Inside the **network requests** list, right-click and select *Clear browser cache*
 
+NOTE: %APPDATA%\Electron\Cache`
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2Njc2NDgyMywyMDEwMzMxODQ2XX0=
+eyJoaXN0b3J5IjpbLTE1NTY3MDQ1MTYsLTM2Njc2NDgyMywyMD
+EwMzMxODQ2XX0=
 -->
