@@ -8,10 +8,10 @@ One way to clear the cache is to do the following:
 
 1. Press `CTRL+SHIFT+I`, to open the browser **developer console**
 2. Go to the **Network** tab and press `CTRL+R` to refresh the page
-3. 
+3. Select any of the requests, right-click and select 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNDcyMzc5NywyMDEwMzMxODQ2XX0=
+eyJoaXN0b3J5IjpbLTE1MzQ0MjI5NDUsMjAxMDMzMTg0Nl19
 -->
